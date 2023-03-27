@@ -1,19 +1,18 @@
 ## ReactJS Emoji Search
 
-A simple ReactJS application to search in large data of emojis by keywords.
+ReactJS Emoji Search is a beginner-friendly ReactJS application that allows users to search for emojis using keywords. With a simple and responsive design, this project is perfect for those who are just starting to learn ReactJS.
 
-<br>
 
-Features:
-- Responsive.
-- Simple code & design (good for beginering who are trying to learn ReactJS).
-- SweetAlert2.
+### Features:
+* Responsive design for seamless use on all devices.
+* Simple, easy-to-read code that is great for beginners.
+* SweetAlert2, a beautiful and easy-to-use alert library, is used in the project.
 
 How To:
-- Download or clone repo.
-- run `npm install`.
-- run `npm start`.
+1. Download or clone the repository.
+2. Run npm install to install dependencies.
+3. Run npm start to launch the application.
 
-
+Check out the demo video below to see the ReactJS Emoji Search in action:
 
 https://user-images.githubusercontent.com/25286081/214999562-242b914b-0ac0-4496-b33c-a682699e581b.mp4
